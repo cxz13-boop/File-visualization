@@ -1,0 +1,9 @@
+node_modules
+dist
+src-tauri/target
+.toolchain
+.pnpm-store
+Humanizer-zh/
+screenshot-m1.png
+*.log
+.DS_Store
